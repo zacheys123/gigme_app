@@ -158,10 +158,10 @@ const Sidebar = () => {
 						}}
 						anchorOrigin={{
 							vertical: 'top',
-							horizontal: 'right',
+							horizontal: 'left',
 						}}
 						transformOrigin={{
-							vertical: 'bottom',
+							vertical: 'top',
 							horizontal: 'left',
 						}}
 					>

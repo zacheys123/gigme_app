@@ -157,11 +157,11 @@ const Sidebar = () => {
 							'aria-labelledby': 'demo-positioned-button',
 						}}
 						anchorOrigin={{
-							vertical: 'top',
-							horizontal: 'right',
+							vertical: 'bottom',
+							horizontal: 'left',
 						}}
 						transformOrigin={{
-							vertical: 'bottom',
+							vertical: 'top',
 							horizontal: 'left',
 						}}
 					>
